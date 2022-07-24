@@ -4,11 +4,12 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 ## Contents
 
-- [Desktop tools]
-- [Online tools]
-- [Notable pro teams]
-- [Notable Discord communities]
-- [Websites]
+- [Desktop tools](#desktop-tools)
+- [Online tools](#online-tools)
+- [Development tools](#development-tools)
+- [Notable pro teams](#notable-pro-teams)
+- [Notable Discord communities](#notable-discord-communites)
+- [Other websites](#other-websites)
 
 ## Desktop tools
 - [Vodon Pro](https://github.com/Rodeoclash/vodon-pro) - Video player designed for performing reviews on footage from multiple viewpoints.
@@ -16,5 +17,14 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 ## Online tools
 - [Vodon Online](https://online.vodon.gg/) - Tool to build video game guides off video footage
 - [Insights](https://insights.gg/) - Comment on VODs and capture footage
+- [SquadOV](https://www.squadov.gg/) - Platform to record, watch and share gaming moments with friends.
+
+## Development tools
+- [Overwolf](https://www.overwolf.com/) - Platform for building in app tools. Can capture events out of games. Plagued with accusations of trigger cheat detection.
+
+## Notable pro teams
+- [Team Liquid](https://www.teamliquid.com/) - Massive established esports organisation with pro teams that span a number of different games.
 
 ## Notable Discord communities
+
+## Other websites
