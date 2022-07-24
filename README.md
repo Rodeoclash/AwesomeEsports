@@ -11,9 +11,9 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [Development tools](#development-tools)
 - [Notable pro teams](#notable-pro-teams)
 - [Reddit communities](#reddit-communites)
-  - [Oceania](#reddit-oceania)
+  - [Oceania](#oceania)
 - [Discord communities](#discord-communites)
-  - [Oceania](#discord-oceania)
+  - [Oceania](#oceania-1)
 - [Other websites](#other-websites)
 - [Popular esports games](#popular-esports-games)
 
