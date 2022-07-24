@@ -39,14 +39,14 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [Apex University](https://www.reddit.com/r/apexuniversity/) - Community focused on getting better at Apex, mainly through tricks and tips rather than indepth guides.
 - [CompetitiveApex](https://www.reddit.com/r/CompetitiveApex/) - News about competitive Apex Legends events
 
-### Oceania {#reddit-oceania}
+### Oceania
 - [EsportsAustralia](https://www.reddit.com/r/esportsaustralia/) - Esports subreddit focused on Australia
 - [NZGaming](https://www.reddit.com/r/nzgaming/) - Esports and general gaming news with a focus on NZ
 
 ## Discord communities
 - [Vodon](https://discord.gg/EaJdhHtZEk) - For discussion of the Vodon set of esports tools.
 
-### Oceania {#discord-oceania}
+### Oceania
 - [Valorant OCE](https://discord.com/invite/valorantoce) - Valorant OCE
 - [Apex Legends OCE](https://discord.com/invite/NxhCGeK) - Apex Legends OCE
 
