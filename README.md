@@ -8,14 +8,16 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [Online tools](#online-tools)
 - [Development tools](#development-tools)
 - [Notable pro teams](#notable-pro-teams)
-- [Notable Discord communities](#notable-discord-communites)
+- [Discord communities](#discord-communites)
 - [Other websites](#other-websites)
+- [Popular esports games](#popular-esports-games)
 
 ## Desktop tools
 - [Vodon Pro](https://github.com/Rodeoclash/vodon-pro) - Video player designed for performing reviews on footage from multiple viewpoints.
 
 ## Online tools
 - [Vodon Online](https://online.vodon.gg/) - Tool to build video game guides off video footage
+- [FileYeet](https://www.fileyeet.io/) - File sharing tool that can be used to receive video files from players.
 - [Insights](https://insights.gg/) - Comment on VODs and capture footage
 - [SquadOV](https://www.squadov.gg/) - Platform to record, watch and share gaming moments with friends.
 
@@ -28,3 +30,8 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 ## Notable Discord communities
 
 ## Other websites
+- [Apex Fundamentalists](https://apexfundamentalists.com/) - In-depth guides to Apex Legends
+
+## Popular esports games
+- [Valorant](https://playvalorant.com) - 5v5 squad based shooter
+- [Apex Legends](https://www.ea.com/en-au/games/apex-legends) - Battle royal hero shooter
