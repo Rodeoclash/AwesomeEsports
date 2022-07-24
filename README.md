@@ -10,6 +10,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [Online tools](#online-tools)
 - [Development tools](#development-tools)
 - [Notable pro teams](#notable-pro-teams)
+- [Reddit communities](#reddit-communites)
 - [Discord communities](#discord-communites)
   - [Oceania](#oceania)
 - [Other websites](#other-websites)
@@ -30,7 +31,12 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 ## Notable pro teams
 - [Team Liquid](https://www.teamliquid.com/) - Massive established esports organisation with pro teams that span a number of different games.
 
-## Notable Discord communities
+## Reddit communities
+- [Apex Legends](https://www.reddit.com/r/apexlegends/) - General Apex community on Reddit, no particular focus.
+- [Apex University](https://www.reddit.com/r/apexuniversity/) - Community focused on getting better at Apex, mainly through tricks and tips rather than indepth guides.
+- [CompetitiveApex](https://www.reddit.com/r/CompetitiveApex/) - News about competitive Apex Legends events
+
+## Discord communities
 - [Vodon](https://discord.gg/EaJdhHtZEk) - For discussion of the Vodon set of esports tools.
 
 ### Oceania
