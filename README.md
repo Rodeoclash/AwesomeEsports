@@ -45,10 +45,12 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 ## Discord communities
 - [Vodon](https://discord.gg/EaJdhHtZEk) - For discussion of the Vodon set of esports tools.
+- [Apex Fundamentalists](https://discord.com/invite/PnfcdQZ8ry) - Companion Discord to the website, discuss indepth strategy and tactics for Apex Legends.
 
 ### Oceania
 - [Valorant OCE](https://discord.com/invite/valorantoce) - Valorant OCE
 - [Apex Legends OCE](https://discord.com/invite/NxhCGeK) - Apex Legends OCE
+- [Overwatch 2 OCE](https://discord.gg/kqE6XUaheR) - Overwatch 2 OCE
 
 ## Other websites
 - [Apex Fundamentalists](https://apexfundamentalists.com/) - In-depth guides to Apex Legends
