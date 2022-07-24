@@ -9,6 +9,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [Development tools](#development-tools)
 - [Notable pro teams](#notable-pro-teams)
 - [Discord communities](#discord-communites)
+  - [Oceania](#oceania)
 - [Other websites](#other-websites)
 - [Popular esports games](#popular-esports-games)
 
@@ -28,6 +29,10 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [Team Liquid](https://www.teamliquid.com/) - Massive established esports organisation with pro teams that span a number of different games.
 
 ## Notable Discord communities
+
+### Oceania
+- [Valorant OCE](https://discord.com/invite/valorantoce) - Valorant OCE
+- [Apex Legends OCE](https://discord.com/invite/NxhCGeK) - Apex Legends OCE
 
 ## Other websites
 - [Apex Fundamentalists](https://apexfundamentalists.com/) - In-depth guides to Apex Legends
