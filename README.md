@@ -2,6 +2,8 @@
 
 A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resources, mainly those that are useful to me when building esports tools but please feel free to raise PRs to add to this list.
 
+*Note: As the author of Vodon software, this list is biased towards my tools!*
+
 ## Contents
 
 - [Desktop tools](#desktop-tools)
@@ -29,6 +31,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [Team Liquid](https://www.teamliquid.com/) - Massive established esports organisation with pro teams that span a number of different games.
 
 ## Notable Discord communities
+- [Vodon](https://discord.gg/EaJdhHtZEk) - For discussion of the Vodon set of esports tools.
 
 ### Oceania
 - [Valorant OCE](https://discord.com/invite/valorantoce) - Valorant OCE
