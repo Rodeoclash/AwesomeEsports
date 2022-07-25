@@ -34,13 +34,23 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 ## Notable pro teams
 - [Team Liquid](https://www.teamliquid.com/) - Massive established esports organisation with pro teams that span a number of different games.
 
-## Reddit communities
+## Reddit
 - [esports](https://www.reddit.com/r/esports/) - General discussion of esports, not game specific
-- [Apex Legends](https://www.reddit.com/r/apexlegends/) - General Apex community on Reddit, no particular focus.
 - [Apex University](https://www.reddit.com/r/apexuniversity/) - Community focused on getting better at Apex, mainly through tricks and tips rather than indepth guides.
-- [CompetitiveApex](https://www.reddit.com/r/CompetitiveApex/) - News about competitive Apex Legends events
 
-### Oceania
+### Game discussion
+- [Apex Legends](https://www.reddit.com/r/apexlegends/) - General Apex community on Reddit, no particular focus.
+- [VALORANT](https://www.reddit.com/r/VALORANT/) - General Valorant community
+
+### Pro discussion
+- [CompetitiveApex](https://www.reddit.com/r/CompetitiveApex/) - News about competitive Apex Legends events, pro focus
+- [ValorantCompetitive](https://www.reddit.com/r/ValorantCompetitive/) - Competitive Valorant
+- [CompetitiveHalo](https://www.reddit.com/r/CompetitiveHalo/) - Competitive Halo
+- [R6ProLeague](https://www.reddit.com/r/R6ProLeague/) - Competitive Rainbow 6
+
+### Regional
+
+#### Oceania
 - [EsportsAustralia](https://www.reddit.com/r/esportsaustralia/) - Esports subreddit focused on Australia
 - [NZGaming](https://www.reddit.com/r/nzgaming/) - Esports and general gaming news with a focus on NZ
 
@@ -64,3 +74,4 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) - Latest version of Counterstrike
 - [Overwatch 2](https://playoverwatch.com/en-us/) - Next version of the popular shooter
 - [League of Legends](https://www.leagueoflegends.com/en-au/) - MOBA
+- [Rainbow 6](https://www.ubisoft.com/en-au/game/rainbow-six/siege) - Tactical squad shooter
