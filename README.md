@@ -11,7 +11,10 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [Development tools](#development-tools)
 - [Notable pro teams](#notable-pro-teams)
 - [Reddit communities](#reddit-communites)
-  - [Oceania](#oceania)
+  - [General game discussion](#general-game-discussion)
+  - [Pro gaming discussion](#pro-gaming-discussion)
+  - [Regional](#regional)
+    - [Oceania](#oceania)
 - [Discord communities](#discord-communites)
   - [Oceania](#oceania-1)
 - [Other websites](#other-websites)
@@ -38,11 +41,11 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [esports](https://www.reddit.com/r/esports/) - General discussion of esports, not game specific
 - [Apex University](https://www.reddit.com/r/apexuniversity/) - Community focused on getting better at Apex, mainly through tricks and tips rather than indepth guides.
 
-### Game discussion
+### General game discussion
 - [Apex Legends](https://www.reddit.com/r/apexlegends/) - General Apex community on Reddit, no particular focus.
 - [VALORANT](https://www.reddit.com/r/VALORANT/) - General Valorant community
 
-### Pro discussion
+### Pro gaming discussion
 - [CompetitiveApex](https://www.reddit.com/r/CompetitiveApex/) - News about competitive Apex Legends events, pro focus
 - [ValorantCompetitive](https://www.reddit.com/r/ValorantCompetitive/) - Competitive Valorant
 - [CompetitiveHalo](https://www.reddit.com/r/CompetitiveHalo/) - Competitive Halo
