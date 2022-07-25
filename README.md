@@ -35,6 +35,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [Team Liquid](https://www.teamliquid.com/) - Massive established esports organisation with pro teams that span a number of different games.
 
 ## Reddit communities
+- [esports](https://www.reddit.com/r/esports/) - General discussion of esports, not game specific
 - [Apex Legends](https://www.reddit.com/r/apexlegends/) - General Apex community on Reddit, no particular focus.
 - [Apex University](https://www.reddit.com/r/apexuniversity/) - Community focused on getting better at Apex, mainly through tricks and tips rather than indepth guides.
 - [CompetitiveApex](https://www.reddit.com/r/CompetitiveApex/) - News about competitive Apex Legends events
@@ -51,12 +52,15 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [Valorant OCE](https://discord.com/invite/valorantoce) - Valorant OCE
 - [Apex Legends OCE](https://discord.com/invite/NxhCGeK) - Apex Legends OCE
 - [Overwatch 2 OCE](https://discord.gg/kqE6XUaheR) - Overwatch 2 OCE
+- [League of Legends OCE](https://discord.gg/7aDqFpt) - League of Legends OCE
 
 ## Other websites
 - [Apex Fundamentalists](https://apexfundamentalists.com/) - In-depth guides to Apex Legends
+- [Liquipedia](https://liquipedia.net/) - Wiki about everything esports, part of Team Liquid
 
 ## Popular esports games
 - [Valorant](https://playvalorant.com) - 5v5 squad based shooter
 - [Apex Legends](https://www.ea.com/en-au/games/apex-legends) - Battle royal hero shooter
 - [CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) - Latest version of Counterstrike
 - [Overwatch 2](https://playoverwatch.com/en-us/) - Next version of the popular shooter
+- [League of Legends](https://www.leagueoflegends.com/en-au/) - MOBA
