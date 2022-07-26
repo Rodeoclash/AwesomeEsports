@@ -24,12 +24,6 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 ## Reddit
 - [esports](https://www.reddit.com/r/esports/) - General discussion of esports, not game specific
 
-### Pro gaming discussion
-- [CompetitiveApex](https://www.reddit.com/r/CompetitiveApex/) - News about competitive Apex Legends events, pro focus
-- [ValorantCompetitive](https://www.reddit.com/r/ValorantCompetitive/) - Competitive Valorant
-- [CompetitiveHalo](https://www.reddit.com/r/CompetitiveHalo/) - Competitive Halo
-- [R6ProLeague](https://www.reddit.com/r/R6ProLeague/) - Competitive Rainbow 6
-
 ### Regional
 
 #### Oceania
@@ -63,6 +57,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 #### Reddit
 - [Apex Legends](https://www.reddit.com/r/apexlegends/) - General Apex community on Reddit, no particular focus.
 - [Apex University](https://www.reddit.com/r/apexuniversity/) - Community focused on getting better at Apex, mainly through tricks and tips rather than indepth guides.
+- [CompetitiveApex](https://www.reddit.com/r/CompetitiveApex/) - News about competitive Apex Legends events, pro focus
 
 #### Websites
 - [Apex Legends](https://www.ea.com/en-au/games/apex-legends) - Battle royal hero shooter
@@ -71,6 +66,16 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 #### Discord
 - [Apex Fundamentalists](https://discord.com/invite/PnfcdQZ8ry) - Companion Discord to the website, discuss indepth strategy and tactics for Apex Legends.
 - [Apex Legends OCE](https://discord.com/invite/NxhCGeK) - Apex Legends OCE
+
+### Halo
+
+#### Websites
+- [Halowaypoint](https://www.halowaypoint.com/en-au) - Homepage
+
+#### Discord
+
+#### Reddit
+- [CompetitiveHalo](https://www.reddit.com/r/CompetitiveHalo/) - Competitive Halo discussion
 
 ### CS:GO
 
@@ -108,6 +113,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 #### Reddit
 - [Rainbow6](https://www.reddit.com/r/Rainbow6/) - General discussion
+- [R6ProLeague](https://www.reddit.com/r/R6ProLeague/) - Competitive Rainbow 6
 
 #### Websites
 - [Rainbow Six](https://www.ubisoft.com/en-au/game/rainbow-six/siege) - Homepage
