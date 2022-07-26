@@ -4,22 +4,6 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 *Note: As the author of Vodon software, this list is biased towards my tools!*
 
-## Contents
-
-- [Desktop tools](#desktop-tools)
-- [Online tools](#online-tools)
-- [Development tools](#development-tools)
-- [Notable pro teams](#notable-pro-teams)
-- [Reddit communities](#reddit-communites)
-  - [General game discussion](#general-game-discussion)
-  - [Pro gaming discussion](#pro-gaming-discussion)
-  - [Regional](#regional)
-    - [Oceania](#oceania)
-- [Discord communities](#discord-communites)
-  - [Oceania](#oceania-1)
-- [Other websites](#other-websites)
-- [Popular esports games](#popular-esports-games)
-
 ## Desktop tools
 - [Vodon Pro](https://github.com/Rodeoclash/vodon-pro) - Video player designed for performing reviews on footage from multiple viewpoints.
 - [OBS Studio](https://obsproject.com/) - Recording suite which allows easy composing of multiple sources into one feed. Used to build pro Twitch Streams.
@@ -39,11 +23,6 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 ## Reddit
 - [esports](https://www.reddit.com/r/esports/) - General discussion of esports, not game specific
-- [Apex University](https://www.reddit.com/r/apexuniversity/) - Community focused on getting better at Apex, mainly through tricks and tips rather than indepth guides.
-
-### General game discussion
-- [Apex Legends](https://www.reddit.com/r/apexlegends/) - General Apex community on Reddit, no particular focus.
-- [VALORANT](https://www.reddit.com/r/VALORANT/) - General Valorant community
 
 ### Pro gaming discussion
 - [CompetitiveApex](https://www.reddit.com/r/CompetitiveApex/) - News about competitive Apex Legends events, pro focus
@@ -57,24 +36,80 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [EsportsAustralia](https://www.reddit.com/r/esportsaustralia/) - Esports subreddit focused on Australia
 - [NZGaming](https://www.reddit.com/r/nzgaming/) - Esports and general gaming news with a focus on NZ
 
-## Discord communities
+## Discord
 - [Vodon](https://discord.gg/EaJdhHtZEk) - For discussion of the Vodon set of esports tools.
-- [Apex Fundamentalists](https://discord.com/invite/PnfcdQZ8ry) - Companion Discord to the website, discuss indepth strategy and tactics for Apex Legends.
 
-### Oceania
-- [Valorant OCE](https://discord.com/invite/valorantoce) - Valorant OCE
-- [Apex Legends OCE](https://discord.com/invite/NxhCGeK) - Apex Legends OCE
-- [Overwatch 2 OCE](https://discord.gg/kqE6XUaheR) - Overwatch 2 OCE
-- [League of Legends OCE](https://discord.gg/7aDqFpt) - League of Legends OCE
-
-## Other websites
-- [Apex Fundamentalists](https://apexfundamentalists.com/) - In-depth guides to Apex Legends
+## Websites
 - [Liquipedia](https://liquipedia.net/) - Wiki about everything esports, part of Team Liquid
 
-## Popular esports games
-- [Valorant](https://playvalorant.com) - 5v5 squad based shooter
+## Esport games
+
+### Valorant
+
+#### Reddit
+- [VALORANT](https://www.reddit.com/r/VALORANT/) - General Valorant community
+- [ValorantCompetitive](https://www.reddit.com/r/ValorantCompetitive/) - Competitive Valorant discussion
+- [AgentAcademy](https://www.reddit.com/r/AgentAcademy) - Focus on getting better at Valorant
+
+#### Websites
+- [Valorant](https://playvalorant.com) - Valorant homepage, 5v5 squad based shooter
+
+#### Discord
+- [Valorant OCE](https://discord.com/invite/valorantoce) - Valorant OCE
+- [AgentAcademy](https://discord.gg/kG9ZS73mK5) - Companion Discord to the Reddit, focus on getting better at Valorant
+
+### Apex Legends
+
+#### Reddit
+- [Apex Legends](https://www.reddit.com/r/apexlegends/) - General Apex community on Reddit, no particular focus.
+- [Apex University](https://www.reddit.com/r/apexuniversity/) - Community focused on getting better at Apex, mainly through tricks and tips rather than indepth guides.
+
+#### Websites
 - [Apex Legends](https://www.ea.com/en-au/games/apex-legends) - Battle royal hero shooter
+- [Apex Fundamentalists](https://apexfundamentalists.com/) - In-depth guides to Apex Legends
+
+#### Discord
+- [Apex Fundamentalists](https://discord.com/invite/PnfcdQZ8ry) - Companion Discord to the website, discuss indepth strategy and tactics for Apex Legends.
+- [Apex Legends OCE](https://discord.com/invite/NxhCGeK) - Apex Legends OCE
+
+### CS:GO
+
+#### Reddit
+- [GlobalOffensive](https://www.reddit.com/r/GlobalOffensive/) - General discussion
+
+#### Websites
 - [CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) - Latest version of Counterstrike
+
+#### Discord
+
+### Overwatch 2
+
+#### Reddit
+- [overwatch2](https://www.reddit.com/r/overwatch2/) - General discussion
+
+#### Websites
 - [Overwatch 2](https://playoverwatch.com/en-us/) - Next version of the popular shooter
+
+#### Discord
+- [Overwatch 2 OCE](https://discord.gg/kqE6XUaheR) - Overwatch 2 OCE
+
+### League of Legends
+
+#### Reddit
+- [leagueoflegends](https://www.reddit.com/r/leagueoflegends/) - General discussion
+
+#### Websites
 - [League of Legends](https://www.leagueoflegends.com/en-au/) - MOBA
-- [Rainbow 6](https://www.ubisoft.com/en-au/game/rainbow-six/siege) - Tactical squad shooter
+
+#### Discord
+- [League of Legends OCE](https://discord.gg/7aDqFpt) - League of Legends OCE
+
+### Rainbow 6
+
+#### Reddit
+- [Rainbow6](https://www.reddit.com/r/Rainbow6/) - General discussion
+
+#### Websites
+- [Rainbow Six](https://www.ubisoft.com/en-au/game/rainbow-six/siege) - Homepage
+
+#### Discord
