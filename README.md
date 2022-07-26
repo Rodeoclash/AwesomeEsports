@@ -60,6 +60,8 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 <img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/apex_legends_v2.png" width="150">
 
+---
+
 ### Apex Legends
 
 #### Reddit
