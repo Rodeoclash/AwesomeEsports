@@ -7,6 +7,10 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 ## Desktop tools
 - [Vodon Pro](https://github.com/Rodeoclash/vodon-pro) - Video player designed for performing reviews on footage from multiple viewpoints.
 - [OBS Studio](https://obsproject.com/) - Recording suite which allows easy composing of multiple sources into one feed. Used to build pro Twitch Streams.
+- [Medal](https://medal.tv/) - Clip, edit and share gameplay
+- [outplayed](https://go.overwolf.com/outplayed/) - Video capture with automatic capturing of events in the game. Based on Overwolf.
+- [insights-capture](https://insights.gg/insights-capture) - Video capture built on top of Overwolf, has an integration into Insights.gg
+- [moments](https://steelseries.com/gg/moments) - Video capture software built by a hardware company for some reason
 
 ## Online tools
 - [Vodon Online](https://online.vodon.gg/) - Tool to build video game guides off video footage
@@ -87,6 +91,16 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 #### Discord
 
+### Overwatch
+
+#### Reddit
+- [Competitiveoverwatch](https://www.reddit.com/r/Competitiveoverwatch/) - Discussion on how to improve
+
+#### Websites
+- [Overbuff](https://www.overbuff.com/) - Overwatch statistics
+
+### Discord
+
 ### Overwatch 2
 
 #### Reddit
@@ -102,6 +116,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 #### Reddit
 - [leagueoflegends](https://www.reddit.com/r/leagueoflegends/) - General discussion
+- [summonerschool](https://www.reddit.com/r/summonerschool/) - Discussion, tips on how to get better
 
 #### Websites
 - [League of Legends](https://www.leagueoflegends.com/en-au/) - MOBA
@@ -119,3 +134,8 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [Rainbow Six](https://www.ubisoft.com/en-au/game/rainbow-six/siege) - Homepage
 
 #### Discord
+
+### Rocket League
+
+#### Reddit
+- [RocketLeagueSchool](https://www.reddit.com/r/RocketLeagueSchool/) - Discussion on getting better at Rocket League
