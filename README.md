@@ -42,6 +42,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 ## Esport games
 
+<img src="/images/valorant.png" width="150">
 ### Valorant
 
 #### Reddit
