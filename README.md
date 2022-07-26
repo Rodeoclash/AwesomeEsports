@@ -43,6 +43,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 ## Esport games
 
 <img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/valorant.png" width="150">
+
 ### Valorant
 
 #### Reddit
@@ -58,6 +59,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [AgentAcademy](https://discord.gg/kG9ZS73mK5) - Companion Discord to the Reddit, focus on getting better at Valorant
 
 <img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/apex_legends.png" width="150">
+
 ### Apex Legends
 
 #### Reddit
