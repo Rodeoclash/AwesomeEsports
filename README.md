@@ -70,6 +70,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 #### Discord
 - [Apex Fundamentalists](https://discord.com/invite/PnfcdQZ8ry) - Companion Discord to the website, discuss indepth strategy and tactics for Apex Legends.
 - [Apex Legends OCE](https://discord.com/invite/NxhCGeK) - Apex Legends OCE
+- [ApexUniversity Discord](https://discord.com/invite/apexuniversity) - Companion Discord for the ApexUniversity subreddit
 
 ### Halo
 
