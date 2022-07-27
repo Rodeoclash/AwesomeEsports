@@ -2,8 +2,6 @@
 
 A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resources, mainly those that are useful to me when building esports tools but please feel free to raise PRs to add to this list.
 
-*Note: As the author of Vodon software, this list is biased towards my tools!*
-
 ## Desktop tools
 - [Vodon Pro](https://github.com/Rodeoclash/vodon-pro) - Video player designed for performing reviews on footage from multiple viewpoints.
 - [OBS Studio](https://obsproject.com/) - Recording suite which allows easy composing of multiple sources into one feed. Used to build pro Twitch Streams.
