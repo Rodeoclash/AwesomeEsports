@@ -28,6 +28,9 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 ## Reddit
 - [esports](https://www.reddit.com/r/esports/) - General discussion of esports, not game specific
 
+## Websites
+- [Champria](https://champria.gg/landing) - Hard to tell exactly what they do, seems you can create scrims but also complete challenges that have payouts.
+
 ### Regional
 
 #### Oceania
