@@ -27,6 +27,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 ## Reddit
 - [esports](https://www.reddit.com/r/esports/) - General discussion of esports, not game specific
+- [esportsjobs](https://www.reddit.com/r/esportsjobs/) - Esports job listings, mostly volunteer / freelance / non-paid stuff
 
 ## Websites
 - [Champria](https://champria.gg/landing) - Hard to tell exactly what they do, seems you can create scrims but also complete challenges that have payouts.
