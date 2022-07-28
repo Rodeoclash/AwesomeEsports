@@ -29,6 +29,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 ## Websites
 - [Champria](https://champria.gg/landing) - Hard to tell exactly what they do, seems you can create scrims but also complete challenges that have payouts.
+- [Disboard](https://disboard.org/) - Find discord servers
 
 ### Regional
 
@@ -76,15 +77,21 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [Apex Legends](https://www.reddit.com/r/apexlegends/) - General Apex community on Reddit, no particular focus.
 - [Apex University](https://www.reddit.com/r/apexuniversity/) - Community focused on getting better at Apex, mainly through tricks and tips rather than indepth guides.
 - [CompetitiveApex](https://www.reddit.com/r/CompetitiveApex/) - News about competitive Apex Legends events, pro focus
+- [ApexLFG](https://www.reddit.com/r/ApexLFG/) - Find games, scrims
+- [Apexrollouts](https://www.reddit.com/r/Apexrollouts/) - Dedicated to improving at movement in Apex Legends
 
 #### Websites
 - [Apex Legends](https://www.ea.com/en-au/games/apex-legends) - Battle royal hero shooter
 - [Apex Fundamentalists](https://apexfundamentalists.com/) - In-depth guides to Apex Legends
 
 #### Discord
+- [ApexLegends](https://discord.gg/ApexLegends) - Official Discord server
 - [Apex Fundamentalists](https://discord.com/invite/PnfcdQZ8ry) - Companion Discord to the website, discuss indepth strategy and tactics for Apex Legends.
 - [Apex Legends OCE](https://discord.com/invite/NxhCGeK) - Apex Legends OCE
 - [ApexUniversity Discord](https://discord.com/invite/apexuniversity) - Companion Discord for the ApexUniversity subreddit
+
+#### Twitter
+- [playapex](https://twitter.com/playapex) - Offical Twitter account
 
 ---
 
