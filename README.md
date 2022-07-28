@@ -54,11 +54,17 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [AgentAcademy](https://www.reddit.com/r/AgentAcademy) - Focus on getting better at Valorant
 
 #### Websites
-- [Valorant](https://playvalorant.com) - Valorant homepage, 5v5 squad based shooter
+- [PlayValorant](https://playvalorant.com) - Valorant homepage, 5v5 squad based shooter
+- [ValorantEsports](https://valorantesports.com/) - Official esports related news for Valorant.
+- [VLR](https://www.vlr.gg/) - Upcoming Valorant matches, very active forum, stats and events.
 
 #### Discord
 - [Valorant OCE](https://discord.com/invite/valorantoce) - Valorant OCE
 - [AgentAcademy](https://discord.gg/kG9ZS73mK5) - Companion Discord to the Reddit, focus on getting better at Valorant
+
+### Twitter
+- [PlayVALORANT](https://twitter.com/PlayVALORANT) - Offical twitter account
+- [ValorantEsports](https://twitter.com/ValorantEsports) - Offical Valorant esports twitter
 
 ---
 
