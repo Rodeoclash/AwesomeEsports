@@ -63,7 +63,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [Valorant OCE](https://discord.com/invite/valorantoce) - Valorant OCE
 - [AgentAcademy](https://discord.gg/kG9ZS73mK5) - Companion Discord to the Reddit, focus on getting better at Valorant
 
-### Twitter
+#### Twitter
 - [PlayVALORANT](https://twitter.com/PlayVALORANT) - Offical twitter account
 - [ValorantEsports](https://twitter.com/ValorantEsports) - Offical Valorant esports twitter
 
