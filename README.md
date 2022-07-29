@@ -45,7 +45,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 ## Esport games
 
-<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/valorant.png" width="150">
+<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_valorant.png" width="100%">
 
 ### Valorant
 
@@ -69,7 +69,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 ---
 
-<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/apex_legends_v2.png" width="150">
+<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_apex_legends.png" width="100%">
 
 ### Apex Legends
 
@@ -95,7 +95,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 ---
 
-<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/halo.png" width="150">
+<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_halo.png" width="100%">
 
 ### Halo
 
@@ -109,7 +109,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 ---
 
-<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/csgo.webp" width="150">
+<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_csgo.png" width="100%">
 
 ### CS:GO
 
@@ -123,7 +123,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 ---
 
-<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/overwatch.png" width="150">
+<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_overwatch.png" width="100%">
 
 ### Overwatch
 
@@ -137,7 +137,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 ---
 
-<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/overwatch2.webp" width="150">
+<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_overwatch2.png" width="100%">
 
 ### Overwatch 2
 
@@ -152,7 +152,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 ---
 
-<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/lol.png" width="150">
+<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_lol.png" width="100%">
 
 ### League of Legends
 
@@ -168,7 +168,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 ---
 
-<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/rainbow6.png" width="150">
+<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_rainbow6.png" width="100%">
 
 ### Rainbow 6
 
@@ -183,7 +183,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 ---
 
-<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/rocket_league.png" width="150">
+<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_rocket_league.png" width="100%">
 
 ### Rocket League
 
