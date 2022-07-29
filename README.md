@@ -81,6 +81,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 #### Websites
 - [Apex Legends](https://www.ea.com/en-au/games/apex-legends) - Battle royal hero shooter
 - [Apex Fundamentalists](https://apexfundamentalists.com/) - In-depth guides to Apex Legends
+- [apexlegendsapi](https://apexlegendsapi.com/) - Unofficial API for Apex Legends
 
 #### Discord
 - [ApexLegends](https://discord.gg/ApexLegends) - Official Discord server
