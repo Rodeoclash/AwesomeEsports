@@ -67,8 +67,6 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [PlayVALORANT](https://twitter.com/PlayVALORANT) - Offical twitter account
 - [ValorantEsports](https://twitter.com/ValorantEsports) - Offical Valorant esports twitter
 
----
-
 <img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_apex_legends.png" width="100%">
 
 ### Apex Legends
@@ -93,8 +91,6 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 #### Twitter
 - [playapex](https://twitter.com/playapex) - Offical Twitter account
 
----
-
 <img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_halo.png" width="100%">
 
 ### Halo
@@ -106,8 +102,6 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 #### Reddit
 - [CompetitiveHalo](https://www.reddit.com/r/CompetitiveHalo/) - Competitive Halo discussion
-
----
 
 <img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_csgo.png" width="100%">
 
@@ -121,8 +115,6 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 #### Discord
 
----
-
 <img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_overwatch.png" width="100%">
 
 ### Overwatch
@@ -134,8 +126,6 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [Overbuff](https://www.overbuff.com/) - Overwatch statistics
 
 ### Discord
-
----
 
 <img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_overwatch2.png" width="100%">
 
@@ -149,8 +139,6 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 #### Discord
 - [Overwatch 2 OCE](https://discord.gg/kqE6XUaheR) - Overwatch 2 OCE
-
----
 
 <img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_lol.png" width="100%">
 
@@ -166,8 +154,6 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 #### Discord
 - [League of Legends OCE](https://discord.gg/7aDqFpt) - League of Legends OCE
 
----
-
 <img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_rainbow6.png" width="100%">
 
 ### Rainbow 6
@@ -180,8 +166,6 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [Rainbow Six](https://www.ubisoft.com/en-au/game/rainbow-six/siege) - Homepage
 
 #### Discord
-
----
 
 <img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_rocket_league.png" width="100%">
 
