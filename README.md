@@ -28,6 +28,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [esportsjobs](https://www.reddit.com/r/esportsjobs/) - Esports job listings, mostly volunteer / freelance / non-paid stuff
 
 ## Websites
+- [Twitch](https://www.twitch.tv/) - Live streaming of games, many esports players will also stream
 - [Champria](https://champria.gg/landing) - Hard to tell exactly what they do, seems you can create scrims but also complete challenges that have payouts.
 - [Disboard](https://disboard.org/) - Find discord servers
 - [FaceIt](https://www.faceit.com/en) - Seems to be a match making client system
@@ -100,6 +101,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 #### Websites
 - [Halowaypoint](https://www.halowaypoint.com/en-au) - Homepage
 - [HaloGG](https://halo.gg/) - Offical Halo page with a focus on esports
+- [Halo Liquipedia](https://liquipedia.net/halo/Main_Page) - Specific Halo page on liquipedia, lists tournament results, upcoming matches, teams etc.
 
 #### Discord
 - [r/Halo](https://discord.com/invite/0n33ymiyO2nnIp2B) - Discord channel for the r/halo subreddit
