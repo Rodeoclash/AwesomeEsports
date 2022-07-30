@@ -30,6 +30,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 ## Websites
 - [Champria](https://champria.gg/landing) - Hard to tell exactly what they do, seems you can create scrims but also complete challenges that have payouts.
 - [Disboard](https://disboard.org/) - Find discord servers
+- [FaceIt](https://www.faceit.com/en) - Seems to be a match making client system
 
 ### Regional
 
@@ -98,11 +99,19 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 #### Websites
 - [Halowaypoint](https://www.halowaypoint.com/en-au) - Homepage
+- [HaloGG](https://halo.gg/) - Offical Halo page with a focus on esports
 
 #### Discord
+- [r/Halo](https://discord.com/invite/0n33ymiyO2nnIp2B) - Discord channel for the r/halo subreddit
+- [CompetitiveHalo](https://discord.com/invite/PD74j7RDVf) - CompetitiveHalo Discord
 
 #### Reddit
+- [Halo](https://www.reddit.com/r/halo/) - Main subreddit for Halo discussion
 - [CompetitiveHalo](https://www.reddit.com/r/CompetitiveHalo/) - Competitive Halo discussion
+
+#### Twitter
+- [RedditHalo](https://twitter.com/RedditHalo) - Twitter account for the RedditHalo subreddit
+- [rCompHalo](https://twitter.com/rCompHalo) - Twitter account for the rCompHalo subreddit
 
 <img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_csgo.png" width="100%">
 
