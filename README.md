@@ -46,9 +46,9 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 ## Esport games
 
-<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_valorant.png" width="100%">
-
 ### Valorant
+
+<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_valorant.png" width="100%">
 
 #### Reddit
 - [VALORANT](https://www.reddit.com/r/VALORANT/) - General Valorant community
@@ -68,9 +68,9 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [PlayVALORANT](https://twitter.com/PlayVALORANT) - Offical twitter account
 - [ValorantEsports](https://twitter.com/ValorantEsports) - Offical Valorant esports twitter
 
-<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_apex_legends.png" width="100%">
-
 ### Apex Legends
+
+<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_apex_legends.png" width="100%">
 
 #### Reddit
 - [Apex Legends](https://www.reddit.com/r/apexlegends/) - General Apex community on Reddit, no particular focus.
@@ -93,9 +93,9 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 #### Twitter
 - [playapex](https://twitter.com/playapex) - Offical Twitter account
 
-<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_halo.png" width="100%">
-
 ### Halo
+
+<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_halo.png" width="100%">
 
 #### Websites
 - [Halowaypoint](https://www.halowaypoint.com/en-au) - Homepage
@@ -113,9 +113,9 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [RedditHalo](https://twitter.com/RedditHalo) - Twitter account for the RedditHalo subreddit
 - [rCompHalo](https://twitter.com/rCompHalo) - Twitter account for the rCompHalo subreddit
 
-<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_csgo.png" width="100%">
-
 ### CS:GO
+
+<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_csgo.png" width="100%">
 
 #### Reddit
 - [GlobalOffensive](https://www.reddit.com/r/GlobalOffensive/) - General discussion
@@ -125,9 +125,9 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 #### Discord
 
-<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_overwatch.png" width="100%">
-
 ### Overwatch
+
+<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_overwatch.png" width="100%">
 
 #### Reddit
 - [Competitiveoverwatch](https://www.reddit.com/r/Competitiveoverwatch/) - Discussion on how to improve
@@ -137,9 +137,9 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 ### Discord
 
-<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_overwatch2.png" width="100%">
-
 ### Overwatch 2
+
+<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_overwatch2.png" width="100%">
 
 #### Reddit
 - [overwatch2](https://www.reddit.com/r/overwatch2/) - General discussion
@@ -150,9 +150,9 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 #### Discord
 - [Overwatch 2 OCE](https://discord.gg/kqE6XUaheR) - Overwatch 2 OCE
 
-<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_lol.png" width="100%">
-
 ### League of Legends
+
+<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_lol.png" width="100%">
 
 #### Reddit
 - [leagueoflegends](https://www.reddit.com/r/leagueoflegends/) - General discussion
@@ -164,9 +164,9 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 #### Discord
 - [League of Legends OCE](https://discord.gg/7aDqFpt) - League of Legends OCE
 
-<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_rainbow6.png" width="100%">
-
 ### Rainbow 6
+
+<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_rainbow6.png" width="100%">
 
 #### Reddit
 - [Rainbow6](https://www.reddit.com/r/Rainbow6/) - General discussion
@@ -177,9 +177,9 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 #### Discord
 
-<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_rocket_league.png" width="100%">
-
 ### Rocket League
+
+<img src="https://raw.githubusercontent.com/Rodeoclash/AwesomeEsports/main/images/banner_rocket_league.png" width="100%">
 
 #### Reddit
 - [RocketLeagueSchool](https://www.reddit.com/r/RocketLeagueSchool/) - Discussion on getting better at Rocket League
