@@ -102,6 +102,8 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [Halowaypoint](https://www.halowaypoint.com/en-au) - Homepage
 - [HaloGG](https://halo.gg/) - Offical Halo page with a focus on esports
 - [Halo Liquipedia](https://liquipedia.net/halo/Main_Page) - Specific Halo page on liquipedia, lists tournament results, upcoming matches, teams etc.
+- [Halo Esports Wiki](https://halo-esports.fandom.com/wiki/Halo_Esports_Wiki) - Fandom wiki that's based on esports for Halo
+- [Halo Twitch Channel](https://www.twitch.tv/halo) - Halo related content on Twitch
 
 #### Discord
 - [r/Halo](https://discord.com/invite/0n33ymiyO2nnIp2B) - Discord channel for the r/halo subreddit
