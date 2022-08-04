@@ -64,6 +64,8 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 #### Discord
 - [Valorant OCE](https://discord.com/invite/valorantoce) - Valorant OCE
 - [AgentAcademy](https://discord.gg/kG9ZS73mK5) - Companion Discord to the Reddit, focus on getting better at Valorant
+- [ValorantGG](https://discord.gg/PnQs4eD7Cz) - Mainly orientated around finding people to play with
+- [ValorantAscent](https://discord.gg/DCrcXgPBDq) - Another server that seems dedicated to finding people to play with  
 
 #### Twitter
 - [PlayVALORANT](https://twitter.com/PlayVALORANT) - Offical twitter account
