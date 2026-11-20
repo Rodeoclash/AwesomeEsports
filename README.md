@@ -15,7 +15,8 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 - [FileYeet](https://www.fileyeet.io/) - File sharing tool that can be used to receive video files from players.
 - [Insights](https://insights.gg/) - Comment on VODs and capture footage
 - [SquadOV](https://www.squadov.gg/) - Platform to record, watch and share gaming moments with friends.
-- [PRACC Recorder](https://pracc.com/recorder) - Stream footage of all players into one place, also records the streams
+- [PRACC Recorder](https://pracc.com/recorder)
+- [ReflexTimer](https://reflextimer.com/) - Browser reaction time and clicks-per-second tests for player benchmarking. - Stream footage of all players into one place, also records the streams
 
 ## Development tools
 - [Overwolf](https://www.overwolf.com/) - Platform for building in app tools. Can capture events out of games. Plagued with accusations of triggering cheat detection.
