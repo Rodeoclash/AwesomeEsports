@@ -19,6 +19,7 @@ A curated list of [esports](https://en.wikipedia.org/wiki/Esports) related resou
 
 ## Development tools
 - [Overwolf](https://www.overwolf.com/) - Platform for building in app tools. Can capture events out of games. Plagued with accusations of triggering cheat detection.
+- [KashRock](https://www.kashrock.com) - Esports data API with Python/JS SDKs and an MCP server — props, odds, live scores, and player stats across CS2, Valorant, LoL, Dota 2, CoD, R6, Mobile Legends, and Apex Legends.
 
 ## Notable pro teams
 - [Team Liquid](https://www.teamliquid.com/) - Massive established esports organisation with pro teams that span a number of different games.
